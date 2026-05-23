@@ -1,4 +1,4 @@
-## Day 3 — 4 June — Zurich City + Lake Day
+## 4 June — Zurich City + Lake Day
 
 **8:00 AM — Relaxed Breakfast**
 _No early rush today._
