@@ -5,17 +5,6 @@ Männedorf → Zurich HB → Interlaken Ost → Grindelwald → Grindelwald Firs
 
 ---
 
-### Detailed Grindelwald Transportation + Coverage Guide
-**For:** 6 Adults + 4 Children  
-**Using:** Swiss Travel Pass
-
-This guide shows:
-- Exact transportation flow
-- What is covered
-- What is NOT covered
-- Where to buy tickets
-- Approximate prices
-
 #### Step 1: Männedorf → Zurich HB
 - Start: Männedorf railway station
 - Train: S7 suburban train (Direction: Winterthur)
