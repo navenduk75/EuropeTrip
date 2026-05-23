@@ -1,181 +1,289 @@
 
-# Rome 3-Day Detailed Transportation + Ticket Plan
+# Rome Family Itinerary (Hour-by-Hour)
 
 **Group:** 6 Adults + 4 Children  
-**Dates:** June 7–9 in Rome
-**Airbnb Location:** Via Ostiense area (close to Metro Line B)
+**Stay:** Via Ostiense area, Rome  
+**Colosseum booking:** 8 June at 9:30 AM
+
+**Your Airbnb location is excellent because it is close to:**
+- Metro Line B
+- Trastevere
+- Roma Ostiense station
 
 ---
 
-## Best Transport Option for Rome
+## Day 1 — 7 June (Arrival + Relaxed Historic Rome)
 
-- **Buy:** ATAC Rome Metro
-- **Recommended Ticket:** 72-Hour Rome Transit Pass
-	- Covers: Metro, city buses, trams
-	- Good for: Colosseum, Vatican, Trevi Fountain, Spanish Steps, Trastevere
+**1:00 PM — Arrive Roma Termini**  
+_You will arrive from Naples._
 
 ---
 
-## Ticket Prices
+**1:15–1:45 PM — Metro to Airbnb**
 
-| Category  | Ticket Type         | Price / Policy                |
-|-----------|---------------------|-------------------------------|
-| Adults    | 72-hour pass        | About €18 per adult           |
-| Children  | Under 10            | **FREE** with paying adult    |
-
-_Huge savings for your group!_
+**Route:**
+- At Termini: Take Metro Line B (Direction: Laurentina)
+- Get off at: Piramide Metro Station
+- Then: Short walk/taxi to Airbnb
 
 ---
 
-## Where to Buy Rome Transit Passes
+**Buy These Immediately**
 
-- Metro stations
-- Airport stations
-- Tabacchi shops
-- Ticket machines
-
-**Best:** Buy at first metro station.
+At Termini station buy:
+- ATAC Rome Metro 72-hour transit pass
+    - Covers: Metro, Bus, Tram
+    - Children under 10: **FREE**
 
 ---
 
-## Day 1 — Ancient Rome Day (June 7)
+**2:00–3:30 PM — Airbnb Check-in + Rest**
 
-### Morning: Airbnb → Colosseum
+_VERY important. Rome in June is tiring. Your next 3 days involve lots of walking._
 
-**WALK:**
-- Airbnb → Piramide Metro Station (~10–15 min walk)
-
-**METRO:**
-- Metro Line B (Direction: Laurentina → Rebibbia/Jonio)
-- Get off at: Colosseo Metro Station (~10 min ride)
-- _Covered by 72-hour pass_
-
-**Colosseum Visit:**
-- **Ticket Required:** Colosseum, Roman Forum, Palatine Hill
-- **Buy in Advance** (recommended: guided tour)
-- **Time:** 3–4 hours
-
-### Afternoon Walking Route
-
-**WALK:**
-- Colosseum → Piazza Venezia (~15 min, FREE)
-- Piazza Venezia → Trevi Fountain (~20 min, FREE)
-- Trevi Fountain → Spanish Steps (~10 min, FREE)
-- Optional: Spanish Steps → Pantheon (~20 min)
-	- Pantheon outside: FREE
-	- Pantheon inside: Paid ticket
-
-### Evening Return
-
-**METRO:**
-- Nearest station: Spagna Metro Station
-- Metro A → Termini, transfer to Metro B → Piramide
-- Walk back to Airbnb
+**Relax:**
+- Shower
+- Snacks
+- Recharge phones
+- Fill water bottles
 
 ---
 
-## Day 2 — Vatican Day (June 8)
+**3:30 PM — Leave for Historic Center**
 
-### Morning: Airbnb → Vatican
-
-**WALK:** Airbnb → Piramide station
-
-**METRO ROUTE:**
-- Metro B: Piramide → Termini
-- Transfer to Metro A: Termini → Ottaviano
-- Get off at: Ottaviano Metro Station
-- Walk: ~10 min to Vatican Museums
-- _Entire trip: ~35–45 min, covered by Rome transit pass_
-
-**Vatican Museums:**
-- **Ticket Required:** Vatican Museums, Sistine Chapel
-- **Buy in Advance** (recommended: skip-the-line guided tour)
-
-### Afternoon
-
-**WALK:** Vatican Museums → St. Peter’s Basilica
-- **FREE ENTRY:** St. Peter’s Basilica (security line only)
-
-### Evening
-
-**WALK:** St. Peter’s Basilica → Castel Sant’Angelo (~15 min, FREE outside)
-- Optional: Castel Sant’Angelo → Piazza Navona (~20 min, FREE)
-	- Piazza Navona: Excellent dinner area
-
-### Return to Airbnb
-- Use bus OR metro from nearby stations (covered by 72-hour pass)
+**Metro Route:** Piramide → Colosseo station  
+_Travel: ~10 minutes_
 
 ---
 
-## Day 3 — Relaxed Rome (June 9)
+**4:00–5:00 PM — Colosseum Exterior**
 
-### Morning
-
-**METRO + WALK:**
-- Go to Villa Borghese (FREE park)
-	- Great for: Children, relaxation, photos
-
-### Afternoon
-
-**Tram or Bus to Trastevere** (covered by Rome transit pass)
-- Destination: Trastevere (FREE neighborhood)
-- Visit: Santa Maria in Trastevere (FREE)
+**Colosseum**
+- **DON’T enter today.**
+- Just relax, take photos, explore exterior, let children enjoy atmosphere
+- _This is perfect because your real entry is next morning._
 
 ---
 
-## Best Walking Strategy in Rome
+**5:00–5:20 PM — Walk to Roman Forum Viewpoints**
 
-Rome is best explored by:
-- Metro + walking
-
-**Avoid:**
-- Driving
-- Taxis for all 10 people
-- Rental car
+**Roman Forum**
+- FREE exterior viewpoints
+- Beautiful golden-hour photos
 
 ---
 
-## Total Tickets You Should Buy
+**5:20–6:00 PM — Walk Via dei Fori Imperiali**
 
-### MUST BUY
-
-| Item                     | Buy? |
-|--------------------------|:----:|
-| Rome 72-hour transit pass| Yes  |
-| Colosseum tickets        | Yes  |
-| Vatican Museum tickets   | Yes  |
-| Naples ↔ Rome train      | Yes  |
-
-### OPTIONAL
-
-| Item                      | Needed?    |
-|---------------------------|:----------:|
-| Pantheon interior         | Optional   |
-| Castel Sant’Angelo interior| Optional  |
-| Borghese Gallery          | Optional   |
+_Easy scenic walk. You’ll see:_
+- Ancient ruins
+- Street performers
+- Piazza Venezia
 
 ---
 
-## Free Highlights
+**6:00–6:30 PM — Trevi Fountain**
 
-| Attraction               | Free |
-|--------------------------|:----:|
-| Trevi Fountain           | Yes  |
-| Spanish Steps            | Yes  |
-| St. Peter’s Basilica     | Yes  |
-| Piazza Navona            | Yes  |
-| Trastevere               | Yes  |
-| Villa Borghese Park      | Yes  |
-| Roman streets/piazzas    | Yes  |
+**Trevi Fountain**
+- FREE
+- Excellent evening timing
 
 ---
 
-## My Biggest Recommendation
+**6:30–7:00 PM — Gelato / Coffee Break**
 
-For your family:
-- Use Metro for long distances
-- Walk inside historic center
-- Keep afternoons relaxed
-- Don’t overpack museums
+_Recommended area:_
+- Near Trevi
+- Near Pantheon
+- Children will enjoy this break
 
-_Rome becomes exhausting quickly for children and large groups if every hour is scheduled._
+---
+
+**7:00–7:30 PM — Pantheon Exterior**
+
+**Pantheon**
+- Outside is enough today
+
+---
+
+**7:30–8:30 PM — Dinner**
+
+_Recommended area: Piazza Navona (Family-friendly, lively atmosphere)_
+
+---
+
+**8:30–9:15 PM — Return to Airbnb**
+
+**Metro:** Barberini/Spagna area → Termini → Piramide  
+_OR taxi if children are exhausted._
+
+---
+
+## Day 2 — 8 June (Colosseum + Ancient Rome)
+
+**IMPORTANT:** You have Colosseum entry at **9:30 AM**
+
+---
+
+**7:00 AM — Wake Up**
+
+Eat breakfast early.  
+**Wear:**
+- Comfortable shoes
+- Caps/hats
+- Carry water
+
+---
+
+**8:00 AM — Leave Airbnb**
+
+**Metro:** Piramide → Colosseo  
+_Arrive early._
+
+---
+
+**8:45 AM — Security Line**
+
+Even with tickets: Security line exists
+
+---
+
+**9:30 AM–1:00 PM — Colosseum + Forum + Palatine Hill**
+
+- Colosseum
+- Roman Forum
+- Palatine Hill
+- Take your time. Do NOT rush. Children may get tired by Palatine Hill.
+
+---
+
+**1:00–2:00 PM — Lunch**
+
+_Recommended: Monti neighborhood near Colosseum (less touristy, better food)_
+
+---
+
+**2:00–3:00 PM — Return to Airbnb + Rest**
+
+_Very important. Rome heat + walking accumulates quickly._
+
+---
+
+**4:30 PM — Spanish Steps**
+
+**Spanish Steps** (FREE)
+
+---
+
+**5:00–6:00 PM — Shopping / Relaxation**
+
+**Via del Corso area**
+- Good for: Souvenirs, coffee, kids snacks
+
+---
+
+**6:00–7:00 PM — Villa Borghese Sunset**
+
+**Villa Borghese**
+- Relaxing after intense morning
+- Children can run around
+
+---
+
+**7:30 PM — Dinner**
+
+_Recommended: Near Spanish Steps OR return to Trastevere_
+
+---
+
+**9:00 PM — Return + Sleep Early**
+
+_Tomorrow is Vatican day._
+
+---
+
+## Day 3 — 9 June (Vatican + Trastevere)
+
+**IMPORTANT:** Book Vatican morning slot if possible.
+
+---
+
+**7:30 AM — Leave Airbnb**
+
+**Metro:** Piramide → Termini → Ottaviano
+
+---
+
+**8:30 AM–12:30 PM — Vatican Museums**
+
+- Vatican Museums
+- Sistine Chapel
+    - Highlights: Sistine Chapel, Gallery of Maps, Raphael Rooms
+
+---
+
+**12:30–1:30 PM — St. Peter’s Basilica**
+
+**St. Peter’s Basilica** (FREE)
+- Don’t miss this
+
+---
+
+**1:30–2:30 PM — Lunch Near Vatican**
+
+---
+
+**2:30–3:00 PM — Walk to Castel Sant’Angelo**
+
+**Castel Sant’Angelo**
+- Exterior is enough
+
+---
+
+**3:00–4:00 PM — Return to Airbnb + Rest**
+
+_Again: Very important._
+
+---
+
+**5:30 PM — Evening in Trastevere**
+
+**Trastevere**
+- Best final evening in Rome
+
+---
+
+**6:00 PM — Santa Maria in Trastevere**
+
+**Santa Maria in Trastevere** (FREE)
+- Beautiful church
+
+---
+
+**6:30–9:00 PM — Final Rome Dinner + Walking**
+
+Enjoy:
+- Street musicians
+- Gelato
+- Piazza atmosphere
+
+_Perfect relaxed final evening._
+
+---
+
+## Day 4 — 10 June Departure
+
+**Your flight is:** 10:30 AM from Rome
+
+---
+
+**IMPORTANT AIRPORT TIMING**
+
+Leave Airbnb around: **6:00 AM**
+
+For 10 people:
+- Pre-book taxi vans OR
+- Use Leonardo Express if convenient
+
+**I strongly recommend:**
+- Pre-booked taxi vans (much easier with luggage + children)
