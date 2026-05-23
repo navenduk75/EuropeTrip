@@ -81,6 +81,10 @@ _This is one of the most beautiful places in Switzerland._
     - Funicular ride: ~10 minutes
     - Views: Lake Thun, Lake Brienz, Alps
 
+
+[YouTube: HARDER KULM | Ultimate Guide to Harder Kulm Top of Interlaken](https://www.youtube.com/watch?v=B0ezUcrJ40o&t=10s)
+
+
 **Harder Kulm Cost:**
 | Ticket Type         | Price (approx)         |
 |---------------------|------------------------|
