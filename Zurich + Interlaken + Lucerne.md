@@ -12,7 +12,7 @@
 
 | Pass                | Validity         | Cost (approx)         |
 |---------------------|------------------|-----------------------|
-| Swiss Travel Pass   | 4-Day Consecutive| Adults: ~CHF 295 each |
+| Swiss Travel Pass   | 3-Day Consecutive| Adults: ~CHF 295 each |
 | Swiss Family Card   | Children <16     | **FREE**              |
 
 _For your group: 6 adult passes only, 4 children free._
@@ -29,79 +29,107 @@ _This will simplify your life enormously._
 
 ---
 
-## Day 1 — 2 June — Interlaken + Lauterbrunnen
 
-**Important Recommendation:**
-> Do NOT spend entire day only in Interlaken town. Best route: Interlaken + Lauterbrunnen (real Swiss postcard scenery)
+## Day 1 — 2 June — Interlaken + Grindelwald
+
+### Route
+Männedorf → Zurich HB → Interlaken Ost → Grindelwald → Grindelwald First
 
 ---
 
-**6:30 AM — Wake Up + Breakfast**
+### Detailed Grindelwald Transportation + Coverage Guide
+**For:** 6 Adults + 4 Children  
+**Using:** Swiss Travel Pass
 
-**7:30 AM — Walk to Station**
-- Go to: Männedorf railway station
+This guide shows:
+- Exact transportation flow
+- What is covered
+- What is NOT covered
+- Where to buy tickets
+- Approximate prices
 
-**7:50 AM — Train to Zurich HB**
-- Covered by Swiss Travel Pass
-- Travel: ~25 minutes
+#### Step 1: Männedorf → Zurich HB
+- Start: Männedorf railway station
+- Train: S7 suburban train (Direction: Winterthur)
+- Travel Time: ~25 minutes
+- Destination: Zürich Hauptbahnhof (Zurich HB)
+- **Covered by Swiss Pass?** YES ✅ Fully covered (no ticket needed)
+	- Board train, sit anywhere in 2nd class, show Swiss Pass if inspector asks
 
-**8:30 AM — Zurich HB → Interlaken Ost**
-- Swiss Federal Railways
-- Likely route: Zurich HB → Bern → Interlaken Ost
-- Travel: ~2 hours
-- Covered fully by Swiss Pass
-- Regular beautiful scenery entire route
+#### Step 2: Zurich HB → Interlaken Ost
+- At Zurich HB: Follow signs for IC, Interlaken Ost
+- Train Type: InterCity (IC)
+- Route: Zurich HB → Bern → Interlaken Ost
+- Travel Time: ~2 hours
+- **Covered by Swiss Pass?** YES ✅ Fully covered
+	- **Tip:** Sit LEFT side facing direction of travel for best scenic views.
 
-**10:45 AM — Interlaken Ost**
-- Quick stop only
+#### Step 3: Interlaken Ost → Grindelwald
+- Start: Interlaken Ost railway station
+- Transfer trains (do NOT leave station)
+- Train Destination: Grindelwald (regional mountain train)
+- Travel Time: ~35 minutes
+- **Covered by Swiss Pass?** YES ✅ Fully covered
+	- **Scenic Value:** One of the most beautiful train rides in Switzerland: alpine villages, waterfalls, snowy peaks, green valleys
 
-**11:00 AM — Train to Lauterbrunnen**
-- Travel: ~20 minutes
-- Covered by Swiss Pass
+#### Step 4: Grindelwald Station → First Cable Car
+- Walk ~10 minutes uphill (follow signs to Firstbahn)
 
-**11:30 AM–1:30 PM — Lauterbrunnen**
-- FREE activities:
-    - Waterfalls
-    - Valley walk
-    - Swiss village
-    - Photography
-_This is one of the most beautiful places in Switzerland._
+#### Step 5: Grindelwald First Cable Car
+- **Covered by Swiss Pass?** PARTIALLY ❌ (~50% discount, not full coverage)
+- What you must buy: Roundtrip cable car ticket
+- Where to buy: Cable car station counter, ticket machines, SBB app
 
-**Optional Activity:**
-- Staubbach Falls (FREE)
+| Traveler Type        | Approximate Price |
+|----------------------|-------------------|
+| Adults (after discount) | CHF 35–45 each |
+| Children             | Reduced fares     |
 
-**1:30–2:30 PM — Lunch**
-- Recommended: Simple Swiss restaurant in Lauterbrunnen
-- Approximate: CHF 20–35 adult, CHF 12–18 children
+_Family total: CHF 280–350_
 
-**2:30 PM — Return to Interlaken**
+#### Step 6: Activities at First
+- **Free Activity:** First Cliff Walk (FREE after reaching First)
+- **Optional:**
+	- Trottibike Scooter Ride (NOT covered, CHF 20–25 per rider, adults/older children)
+		- Family total: CHF 120–180 depending on participants
+	- First Flyer Zipline (NOT covered, CHF 30–40 per person)
+	- Mountain Cart (NOT covered, CHF 20–25 each)
 
-**3:00–5:00 PM — Interlaken + Harder Kulm**
-- Optional Mountain Visit: Harder Kulm (PERFECT for families)
-    - Funicular ride: ~10 minutes
-    - Views: Lake Thun, Lake Brienz, Alps
+#### Step 7: Lunch at First or Grindelwald
+- **Covered by Swiss Pass?** NO ❌ (Food never included)
+- Approximate family cost: CHF 250–350
 
+#### Step 8: Return Journey
+- First → Grindelwald: Cable car down (included in roundtrip ticket)
+- Grindelwald → Interlaken Ost: ✅ Fully covered
+- Interlaken Ost → Zurich HB: ✅ Fully covered
+- Zurich HB → Männedorf: ✅ Fully covered
 
-[YouTube: HARDER KULM | Ultimate Guide to Harder Kulm Top of Interlaken](https://www.youtube.com/watch?v=B0ezUcrJ40o&t=10s)
+#### Quick Summary Table
 
+| Segment                        | Covered by Swiss Pass?      |
+|--------------------------------|-----------------------------|
+| Männedorf → Zurich HB          | ✅ Fully                    |
+| Zurich HB → Interlaken Ost     | ✅ Fully                    |
+| Interlaken Ost → Grindelwald   | ✅ Fully                    |
+| Grindelwald local buses        | ✅ Mostly                   |
+| Grindelwald First cable car    | ❌ Partial discount only    |
+| First Cliff Walk               | ✅ Free                     |
+| Trottibike                     | ❌ Not covered              |
+| First Flyer                    | ❌ Not covered              |
+| Mountain Cart                  | ❌ Not covered              |
+| Boats in Switzerland           | ✅ Fully                    |
+| Trams/buses in Zurich/Lucerne  | ✅ Fully                    |
 
-**Harder Kulm Cost:**
-| Ticket Type         | Price (approx)         |
-|---------------------|------------------------|
-| Without Swiss Pass  | CHF 38–44 round trip/adult |
-| With Swiss Pass     | ~50% discount          |
-| Children            | Reduced/free depending on age |
-
-_Highly recommended._
-
-**Alternative (FREE):**
-- Walk Interlaken
-- Relax near lakes
-
-**5:30 PM — Train Back to Zurich**
-
-**8:00 PM — Return Männedorf**
-- Dinner + rest
+#### Best App for Your Family
+**Install:** SBB Mobile
+This app shows:
+- Platforms
+- Train numbers
+- Delays
+- Connections
+- Live schedules
+_It is extremely accurate and essential for Switzerland travel._
 
 ---
 
