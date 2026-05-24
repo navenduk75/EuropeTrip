@@ -37,6 +37,7 @@ Männedorf → Lucerne → Engelberg → Titlis → (return same route)
 | Engelberg local bus      | ✅ YES                   |
 | Titlis cable cars        | ⚠️ DISCOUNTED (~50%)    |
 
+```5 minutes walk from Engelberg to Titlis cable cars```
 ---
 
 ## What You Must Buy
